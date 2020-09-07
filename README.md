@@ -6,6 +6,9 @@ DeepQ's simple GUI platform lets analysis be done in a matter of clicks, with no
 
 Welcome to DeepQ.
 
+Cloud CLI Version [Available here](https://colab.research.google.com/drive/1XCLpNMDHCePSyoj8cMw-ecsURRamtmjD?usp=sharing)
+
+Example Batch Output Below:
 
 <img src="https://github.com/bortpro/DeepQ/blob/master/analysis.png" width="450" height="800">
 
